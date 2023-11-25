@@ -11,7 +11,7 @@ and self-hosting.
 
 == Quick links
 
-* link:/dotfiles[Dotfiles]
-* link:/dotfiles/tree/main/home/.config/nvim[NeoVim config]
+* link:https://github.com/FunctionalHacker/dotfiles[Dotfiles]
+* link:https://github.com/FunctionalHacker/dotfiles/tree/main/home/.config/nvim[NeoVim config]
 
 For more information, please https://korhonen.cc[visit my website]
