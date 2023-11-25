@@ -1,8 +1,8 @@
 = Marko Korhonen
 
-[cols=">,.^",frame=none]
+[cols=">,<",frame=none]
 |===
-| image:https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra[Top languages,link=https://github.com/anuraghazra/github-readme-stats]
+| image:https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut[Top languages,link=https://github.com/anuraghazra/github-readme-stats]
 | image:https://github-readme-stats.anuraghazra1.vercel.app/api?username=FunctionalHacker&show_icons=true&theme=transparent[GitHub stats,link=https://github.com/anuraghazra/github-readme-stats]
 |===
 
